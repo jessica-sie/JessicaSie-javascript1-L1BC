@@ -10,4 +10,4 @@ javascript 1 : bloodTypes.js
 
 javascript 2: 
 
-javascript 3: 
+javascript 3: stairs.js
