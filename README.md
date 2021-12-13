@@ -8,6 +8,6 @@ student ID : 2502053653
 
 javascript 1 : bloodTypes.js
 
-javascript 2: 
+javascript 2: digitalDecipher.js
 
-javascript 3: 
+javascript 3: stairs.js
