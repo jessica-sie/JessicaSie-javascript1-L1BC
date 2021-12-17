@@ -38,4 +38,4 @@ console.log(stairCost([0,2,2,1]));
 console.log(stairCost([0, 2, 3, 2]));
 console.log(stairCost([10, 15, 20]));
 console.log(stairCost([0, 0, 0, 0, 0, 0]));
-console.log(stairCost([0,2,3,2,1,2])); // function does not work here 
+console.log(stairCost([0,2,3,2,1,2])); // function does not for longer arrays
